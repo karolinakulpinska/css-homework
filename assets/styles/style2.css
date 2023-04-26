@@ -45,3 +45,17 @@ tr:nth-child(even) {
   background-color: #4b4b4b;
   color: white;
 }
+
+#table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+#footer2 {
+  background-color: black;
+  padding: 7%;
+  color: white;
+  text-align: center;
+}
