@@ -1,0 +1,40 @@
+#pages2 {
+  padding: 10px;
+}
+
+a {
+  padding: 20px;
+  text-decoration: none;
+}
+
+#welcome2 {
+  background-image: url("../images/catbg.jpg");
+  background-size: cover;
+  color: rgb(0, 0, 0);
+  text-align: left;
+  margin-top: 10px;
+  padding: 2% 10% 10% 10%;
+}
+
+p {
+  padding-right: 50%;
+  line-height: 20pt;
+  text-align: left;
+}
+
+table {
+  border: 1px solid #000000;
+  font-family: arial, sans-serif;
+  width: 25%;
+}
+
+td, th {
+  border: 1px solid white;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #4b4b4b;
+  color: white;
+}
