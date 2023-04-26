@@ -8,4 +8,4 @@ Homework from week 2.
 
 Activity: HTML + CSS Styled Webpage.
 
-Link to deployed application: 
+Link to deployed application: https://karolinakulpinska.github.io/css-homework/
